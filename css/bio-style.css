@@ -1,0 +1,19 @@
+#navBar {
+	text-align: right;
+	margin-right: 5%;
+	font: 20px Helvetica;
+}
+
+#title {
+	text-align: center;
+	font: bold 48px Helvetica;
+}
+
+#content {
+	text-align: center;
+	font: Baskerville;
+}
+
+body {
+	background-color: #F3FAB6;
+}

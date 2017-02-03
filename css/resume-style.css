@@ -1,0 +1,33 @@
+#navBar {
+	text-align: right;
+	margin-right: 5%;
+	font: 20px Helvetica;
+}
+
+#nameAndSchool {
+	text-align: center;
+	font: bold 48px Helvetica;
+}
+
+.jobTitle {
+	font-size: 24px;
+	text-align: center;
+}
+
+.jobDescription {
+	text-align: center;
+}
+
+.accomplishmentsHeader {
+	text-align: center;
+	font-weight: bold;
+}
+
+.skillsContent {
+	text-align: center;
+}
+
+body {
+	background-color: #CBE32D;
+}
+

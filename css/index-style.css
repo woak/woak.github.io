@@ -1,0 +1,27 @@
+#navBar {
+	text-align: right;
+	margin-right: 5%;
+	font: 20px Helvetica;
+}
+
+#profilePicture {
+	max-width: 100%;
+	height: auto;
+
+	display: block;
+	margin: auto;
+
+	width: 50%;
+
+	border-radius: 8px;
+}
+
+body {
+	background-color: #A8CD1B;
+}
+
+#name {
+	text-align: center;
+	font: 48px Helvetica;
+	color: #005A31;
+}
